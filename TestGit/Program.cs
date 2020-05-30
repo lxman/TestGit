@@ -10,6 +10,7 @@ namespace TestGit
             Console.WriteLine("Revision 1");
             Console.WriteLine("Branch revision 1");
             Console.WriteLine("Branch revision 2");
+            Console.WriteLine("Branch revision 3");
         }
     }
 }
