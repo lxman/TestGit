@@ -8,6 +8,8 @@ namespace TestGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Revision 1");
+            Console.WriteLine("Branch revision 1");
+            Console.WriteLine("Branch revision 2");
         }
     }
 }
