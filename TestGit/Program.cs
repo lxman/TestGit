@@ -7,6 +7,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Revision 1");
             Console.WriteLine("Branch revision 1");
             Console.WriteLine("Branch revision 2");
         }
